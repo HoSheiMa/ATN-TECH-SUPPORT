@@ -11,7 +11,11 @@ $db = 'adil';
 $host = 'localhost';
 $user = "root";
 $pass = "";
-
+// server
+// $db = "id14792636_test";
+// $host = "localhost";
+// $user = "id14792636_root";
+// $pass = "jq{7X[Rl[j}H/28Y";
 
 // Create connection
 $conn = null;
